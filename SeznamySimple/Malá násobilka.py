@@ -6,3 +6,6 @@ if num < 11 and num >=2:
 
 else:
     print("Říkám ti malou násobilku!")
+
+#pekny format print, dobra kontrola uzivatelskeho vstupu
+#neukladas do seznamu

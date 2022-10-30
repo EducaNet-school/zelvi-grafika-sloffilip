@@ -8,3 +8,6 @@ if start<end:
 
 else:
     print("Jak může být konečné číslo větší než počáteční?")
+
+#mas upravene zadani, neco podobneho jsem videl, mas stesti, ze 
+#nemuzu najit kdo to ma skoro stejne, vysledek mel byt soucet

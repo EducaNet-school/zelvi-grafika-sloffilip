@@ -9,3 +9,5 @@ for i in range(9):
     lichcislo += 2
     list.append(lichcislo)
 print(list)
+
+#chybi vypocet prumeru

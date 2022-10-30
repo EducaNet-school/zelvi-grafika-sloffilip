@@ -27,5 +27,6 @@ def printPrime(n):
 n = int(input("Jaké číslo bude končit?"))
 printPrime(n)
 
+#pekne pouziti funkci, neukladas do seznamu
 
 

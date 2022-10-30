@@ -9,3 +9,5 @@ while y <= konechod:
     y=y+x
 if x<=konechod:
     print(x)
+
+#rada zacina od 1

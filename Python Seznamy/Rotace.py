@@ -20,3 +20,6 @@ if otazka == 2 and otazka2 == "Doprava":
 if otazka == 2 and otazka2 == "Doleva":
     l1 = l1[-2:] + l1[:-2]
     print("Levá rotace seznamu o 2 : " + str(l1))
+
+# je to velmi tezkopadne, kdyby mel seznam 1000 polozek, tak se
+# hodne napracujes
